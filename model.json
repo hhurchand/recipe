@@ -1,6 +1,5 @@
 
-{"llm":
-{["name":"Deepseek","parameter":"671B","open_source":"True"]},
-{["name":"llama3","parameter":"405B","open_source":"True"]},
-{["name":"GPT4-o1","parameter":"unknown","open_source":"False"]}
+{"llm":[{"name":"Deepseek","parameter":"671B","open_source":"True"},
+{"name":"llama3","parameter":"405B","open_source":"True"},
+{"name":"GPT4-o1","parameter":"unknown","open_source":"False"}]
 }
